@@ -1,0 +1,251 @@
+/* CSS Document */
+
+p{
+	font-family:"全真中黑體", "新細明體";
+	font-size:16px;
+	line-height:18px;
+	padding:3px;
+	color: #000;
+	text-align: center;
+}
+
+.bold{
+	font-family:全真中黑體 ,新細明體;
+	font-size:11px;
+	line-height:18px;
+	font-weight: bold;
+	color:#F69;
+}
+
+.navigation{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#99FF99;
+text-decoration:none;
+background-color: #33CC33;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.navigation:hover{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#99FF99;
+text-decoration:none;
+background-color: #00A441;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.aboutus{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#33CCFF;
+text-decoration:none;
+background-color: #0066CC;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.aboutus:hover{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#66CCFF;
+text-decoration:none;
+background-color: #00348C;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.newsletter{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#FFFFFF;
+text-decoration:none;
+background-color: #FF9900;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.newsletter:hover{
+	font-family:全真中黑體 ,新細明體;
+	font-size:16px;
+	font-style:normal;
+	font-weight: bold;
+	color:#FFFF66;
+	text-decoration:none;
+	background-color: #FF9900;
+	display:block;
+	padding:8px;
+	width:140px;
+	text-align: left;
+}
+
+.activity{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#FFCCFF;
+text-decoration:none;
+background-color: #FF3333;
+display:block;
+padding:8px;
+width:120px;
+}
+
+.activity:hover{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#FF9999;
+text-decoration:none;
+background-color: #E70000;
+display:block;
+padding:8px;
+width:120px;
+}
+
+.contact{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#9999CC;
+text-decoration:none;
+background-color: #9933CC;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.contact:hover{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#CC99CC;
+text-decoration:none;
+background-color: #52006B;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.photos{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#CC9966;
+text-decoration:none;
+background-color: #CC3300;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.photos:hover{
+	font-family:"全真中黑體", "新細明體";
+	font-size:16px;
+	font-style:normal;
+	font-weight: bold;
+	color:#CC6633;
+	text-decoration:none;
+	background-color: #901D00;
+	display:block;
+	padding:8px;
+	width:140px;
+}
+
+.summer_program{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#FFCCFF;
+text-decoration:none;
+background-color: #FF9999;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.summer_program:hover{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#FEA3C6;
+text-decoration:none;
+background-color: #FD6C8B;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.program_movie{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#00CCFF;
+text-decoration:none;
+background-color: #0099FF;
+display:block;
+padding:8px;
+width:140px;
+}
+
+.program_movie:hover{
+font-family:全真中黑體 ,新細明體;
+font-size:16px;
+font-style:normal;
+font-weight: bold;
+color:#33FFFF;
+text-decoration:none;
+background-color: #3366FF;
+display:block;
+padding:8px;
+width:140px;
+}
+.style1 .style1 {
+	color: #00C;
+}
+.tabletext {
+	font-size: 12px;
+}
+.tabletext {
+	font-size: 14px;
+}
+.tabletext {
+	text-align: center;
+}
+.tabletext {
+	font-size: 18px;
+}
+.tabletext {
+	font-size: 24px;
+}
+.style8 .style8 strong {
+	text-align: left;
+}
+.newActcontent {
+	text-align: left;
+}
